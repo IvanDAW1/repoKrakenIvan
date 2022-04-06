@@ -4,3 +4,4 @@ ivan
 (C) Benvinguda a la branca02 ivan
 (D) Modificació 02 Main ivan
 (E) Afegim imatge a branca01 ivan
+(F) Afegim imatge a branca02 ivan
